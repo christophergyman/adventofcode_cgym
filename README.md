@@ -31,6 +31,6 @@ Project Link:
 ## Acknowledgements
 * [Advent of Code 2023](https://adventofcode.com/)
 * [Github Template Guide](https://github.com/othneildrew/Best-README-Template)
-* [Mastering Github Markdown](https://guides.github.com/features/mastering-markdow
+* [Mastering Github Markdown](https://guides.github.com/features/mastering-markdow)
 
 
